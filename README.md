@@ -40,7 +40,7 @@ Este projeto é desenvolvido numa máquina Positivo antiga: **Intel Atom N2600 a
 
 Os builds são lentos e não conseguimos fazer sozinhos toda a bateria de testes longos, integrações e verificações em dispositivos. Por isso, **vou continuar lançando atualizações, mas preciso de contribuidores** para levar o Thomas mais longe.
 
-## 🛠️ em que estou trabalhando
+## 🛠️ No que estou trabalhando
 
 - 🦀 Runtime de agentes, ferramentas e streaming de provedores em Rust
 - 🧠 Contexto persistente, memória, tarefas e workflows de longa duração
